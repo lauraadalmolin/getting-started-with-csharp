@@ -3,7 +3,7 @@ using UserAPI.Controllers;
 using UserAPI.Data;
 using UserAPI.Models;
 
-namespace UserAPI.Test__
+namespace UserAPI.Test
 {
     [TestClass]
     public class UserControllerTests
